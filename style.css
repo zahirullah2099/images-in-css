@@ -1,0 +1,97 @@
+
+/* size of imageas */
+/* img{
+    width: 250px;
+    height: 250px;
+} */
+
+/* aligning images */
+/* img{
+    margin-left: 300px;
+    float: right;
+} */
+
+/* CENTERING IMAGES */
+/* img{
+    display: block;
+    margin: auto;
+} */
+
+/* BACKGROUND IMAGES */
+/* body{
+    background-image: url("./bike2.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+
+/* BACKGROUND REPEAT */
+/* body{
+    background-image: url("./pexels-cristiana-raluca-686230.jpg");
+    background-repeat:  repeat;
+    background-size: cover;
+    background-attachment: fixed;
+     
+} */
+
+/* BACKGROUND POSITION */
+/* body{
+    background-image: url("./bike1.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position:  center;
+} */
+/* BACKGROUND SHORTHAND */
+/* body{
+    background: url("./bike1.jpeg") no-repeat fixed right top gray;
+} */
+
+/* GRADIENTS */
+/* LINEAR GRADIENTS */
+/* body{
+    background-image: linear-gradient(red,yellow);
+    background-repeat: no-repeat;
+    height: 100vh;
+} */
+
+/* #gradient{
+    height: 500px;
+    width: 500px;
+    margin: auto;
+    background-image: linear-gradient(to right,red,orange,yellow,green,blue);
+} */
+
+/* REDIAL GRADIENT */
+/* #gradient{
+    height: 500px;
+    width: 500px;
+    margin: auto;
+    background-image: repeating-radial-gradient( red,orange 20%,yellow,green 10%,blue);
+} */
+
+/* CONIC GRADIENT */
+#gradient{
+    height: 500px;
+    width: 500px;
+    margin: auto;
+    background-image:  conic-gradient( red 45deg,green 100deg,blue 210deg);
+    border-radius: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
